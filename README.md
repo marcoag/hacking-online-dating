@@ -1,4 +1,4 @@
-# Computer Vision Presentation for Self Driving Cars
+# Data Science Workshop: hacking OcKupid through data analysis
 
 This is a Data Science Workshop  by UpCode Academy.
 
